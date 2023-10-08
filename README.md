@@ -1,1 +1,2 @@
 # cricket-score-management-system
+THIOS PROJECT BASED ON C THE CONCEPT OF FILE HANDLING IS USED IN IT
